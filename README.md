@@ -15,7 +15,7 @@ The Group Tour Booking Website allows users to discover, explore, and book group
 ## 📁 Repository Structure
 📁 docs/ ├── architecture/ ├── api-specs/ ├── data-models/ ├── wireframes/ └── infrastructure/
 
-📁 diagrams/ ├── system-architecture.png ├── data-flow-diagram.png └── er-diagram.png
+📁 diagrams/ ├── system-architecture/ ├── data-flow-diagram/ └── er-diagram/
 
 📄 roadmap.md 📄 project-plan.md 📄 README.md
 
